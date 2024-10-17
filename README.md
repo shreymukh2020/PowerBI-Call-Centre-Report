@@ -4,19 +4,19 @@ PowerBI Report
 
 ## Cover Page:
 
-![My Image](https://github.com/username/repository-name/blob/main/path/to/Callcentre_cover.jpg)
+![image](https://github.com/shreymukh2020/PowerBI-Call-Centre-Report/blob/main/Callcentre_cover.jpg)
 
 ## Home Page:
 
-![My Image](https://github.com/username/repository-name/blob/main/path/to/Callcentre_Homepage.jpg)
+![image](https://github.com/shreymukh2020/PowerBI-Call-Centre-Report/blob/main/Callcentre_Homepage.jpg)
 
 ## Analytics Page:
-![My Image](https://github.com/username/repository-name/blob/main/path/to/Callcentre_Analytics_page.jpg)
+![image](https://github.com/shreymukh2020/PowerBI-Call-Centre-Report/blob/main/Callcentre_Analytics_page.jpg)
 
 
 ## Details Page:
 
-![My Image](https://github.com/username/repository-name/blob/main/path/to/Callcentre_Detailspage.jpg)
+![image](https://github.com/shreymukh2020/PowerBI-Call-Centre-Report/blob/main/Callcentre_Detailspage.jpg)
 
 
 
